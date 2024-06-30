@@ -23,4 +23,4 @@
 * 유효성 검증
 
 ## :link: 최종 자료 PDF 
-[Account.pdf](https://github.com/user-attachments/files/15814180/1Account.pdf)
+[1Account.pdf](https://github.com/user-attachments/files/16046482/1Account.pdf)
