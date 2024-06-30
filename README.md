@@ -21,3 +21,6 @@
 * Static과 this의 개념
 * 객체 추상화
 * 유효성 검증
+
+## :link: 최종 자료 PDF 
+[Account.pdf](https://github.com/user-attachments/files/15814180/1Account.pdf)
